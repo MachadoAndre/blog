@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/MachadoAndre/blog/issues"
   },
-  "homepage": "https://github.com/MachadoAndre/blog#readme"
+  "homepage": "https://github.com/MachadoAndre/blog#readme",
+  "dependencies": {
+    "lite-server": "^2.4.0"
+  }
 }
